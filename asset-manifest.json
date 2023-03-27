@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aeafcd3f.css",
+    "main.js": "/static/js/main.da9195c2.js",
+    "static/js/787.63e47474.chunk.js": "/static/js/787.63e47474.chunk.js",
+    "static/media/icon_sauna.svg": "/static/media/icon_sauna.b8b69abd87dacbbe7fcf81491fa37a68.svg",
+    "static/media/icon_study_room.svg": "/static/media/icon_study_room.7959c781be1b9f0b9eb7bde1db9c4511.svg",
+    "static/media/icon_fitness.svg": "/static/media/icon_fitness.fbeac3a2ecfa0770cdf2dda1077e56ec.svg",
+    "static/media/icon_pilates.svg": "/static/media/icon_pilates.1ea4952535dde9f2cb0bf6824bfaa10c.svg",
+    "static/media/icon_invitation.svg": "/static/media/icon_invitation.1f6c64fc56593301b2a8be9bde23add9.svg",
+    "static/media/icon_cafeteria.svg": "/static/media/icon_cafeteria.64df92e27e12065f3f960914eafacf01.svg",
+    "static/media/icon_guesthouse.svg": "/static/media/icon_guesthouse.7c86fa37ababa0ddf6d461e6bdb7d2be.svg",
+    "static/media/icon_calendar.svg": "/static/media/icon_calendar.30f94d7515b72077eea7340a06d1c9e1.svg",
+    "static/media/icon_check_circle.svg": "/static/media/icon_check_circle.68dc23ee5b5adbc432f30f4faae6a158.svg",
+    "static/media/icon_golf.svg": "/static/media/icon_golf.ef31bb428293e643237d71825aa9b93e.svg",
+    "static/media/icon_screen_golf.svg": "/static/media/icon_screen_golf.ef31bb428293e643237d71825aa9b93e.svg",
+    "static/media/icon_x.svg": "/static/media/icon_x.6f0e9ebf61402b2ed8c10d316b583e2d.svg",
+    "index.html": "/index.html",
+    "static/media/chevron_right.svg": "/static/media/chevron_right.909f83520a2f39a6b3ae1acdc92cdf2b.svg",
+    "static/media/icon_check_box.svg": "/static/media/icon_check_box.331a0a52141ca056ddda1d34f05d6598.svg",
+    "static/media/icon_check.svg": "/static/media/icon_check.7141fe2d3be7fd6eac2af3093caaf141.svg",
+    "static/media/icon_clock.svg": "/static/media/icon_clock.4e54fdcd074d054fbbf8156ed51c291d.svg",
+    "main.aeafcd3f.css.map": "/static/css/main.aeafcd3f.css.map",
+    "main.da9195c2.js.map": "/static/js/main.da9195c2.js.map",
+    "787.63e47474.chunk.js.map": "/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aeafcd3f.css",
+    "static/js/main.da9195c2.js"
+  ]
+}
